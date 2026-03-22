@@ -18,4 +18,3 @@ JavaScript
 
 This project is for educational purposes only and does not provide medical advice.
 
-📸 Preview
